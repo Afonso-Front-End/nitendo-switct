@@ -1,5 +1,5 @@
 
-## [Nitendo Switct]()
+## [Nitendo Switct](https://afonso-front-end.github.io/nitendo-switct/)
 
 Um repositório dedicado a um Nitendo Switct.
 
@@ -9,16 +9,12 @@ Este projeto é Nitendo Switct desenvolvido em [HTML CSS JS] links direcionados 
 
 ## Funcionalidades Principais
 
-- Links.
+- Links direcionais.
 - Animação do projeto.
 
 ## Capturas de Tela
 
 ![Captura de Tela 1](screenshots/imagem1.png)
-![Captura de Tela 1](screenshots/imagem2.png)
-![Captura de Tela 1](screenshots/imagem4.png)
-![Captura de Tela 1](screenshots/imagem5.png)
-![Captura de Tela 1](screenshots/imagem6.png)
 
 ## Pré-requisitos
 
