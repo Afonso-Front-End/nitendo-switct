@@ -15,6 +15,7 @@ Este projeto é Nitendo Switct desenvolvido em [HTML CSS JS] links direcionados 
 ## Capturas de Tela
 
 ![Captura de Tela 1](screenshots/imagem1.png)
+![Captura de Tela 1](screenshots/imagem2.png)
 
 ## Pré-requisitos
 
